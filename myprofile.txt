@@ -1,0 +1,3 @@
+nama : Azzam Naufal
+umur : 29
+pekerjaan : Data analyst
