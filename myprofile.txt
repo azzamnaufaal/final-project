@@ -1,3 +1,4 @@
 nama : Azzam Naufal
 umur : 29
 pekerjaan : Data analyst
+domisili : Bekasi
